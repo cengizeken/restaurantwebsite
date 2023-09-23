@@ -1,8 +1,23 @@
+![RestaurantWebPage](../restaurantwebsite/src/assets/RestaurantWebPage.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+In the project, Material UI is used to visualize the icons fist install the MUI package:
+
+### `npm install @mui/icons-material`
+### `npm install @emotion/styled`
+### `npm install @emotion/react`
+
+Then select the desired icons from
+https://mui.com/material-ui/material-icons/
+
+then copy the icons link into the js file like: 
+### `import InstagramIcon from '@mui/icons-material/Instagram';`
+
+
 
 In the project directory, you can run:
 
