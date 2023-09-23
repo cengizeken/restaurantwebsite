@@ -1,4 +1,4 @@
-![RestaurantWebPage](../restaurantwebsite/src/assets/RestaurantWebPage.gif)
+![RestaurantWebPage](src/assets/RestaurantWebPage.gif)
 
 # Getting Started with Create React App
 
